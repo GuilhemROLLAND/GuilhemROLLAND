@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Guilhem ROLLAND, engineer in embedded software.  
 I'm currently working for [Elsys DESIGN](www.elsys-design.com), a french company in embedded system, for Lyon's offices.  
-I'm graduated from Grenoble INP - Esisar in 2022.  
+I'm graduated from [Grenoble INP - Esisar](esisar.grenoble-inp.fr) in 2022.  
 
 <!--
 **GuilhemROLLAND/GuilhemROLLAND** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
